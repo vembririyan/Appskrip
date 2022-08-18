@@ -1,6 +1,6 @@
 # Appskrip
 Halo guys, salam programmer :computer:\
-Kali ini saya membuat sebuah aplikasi sederhana menggunakan Laravel+Vue Js+Inertia Js\
+Kali ini saya membuat sebuah aplikasi sederhana menggunakan Laravel 9+Vue Js+Inertia Js\
 Aplikasi sederhana ini sudah mengimplementasikan CRUD
 
 Buat instalasinya\
